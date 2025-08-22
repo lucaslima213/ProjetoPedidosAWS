@@ -2,9 +2,11 @@
 <img width="1312" height="696" alt="image" src="https://github.com/user-attachments/assets/bfa6b061-0044-4061-9335-1875965bc27e" />
 
 Apresentação do Projeto
+
 Neste projeto, eu construí uma arquitetura AWS completa e funcional, explorando diversos serviços serverless e orientados a eventos. Durante quatro aulas intensas, eu desenvolvi cada etapa do pipeline de pedidos, desde a entrada dos dados até o processamento e persistência.
 
 O que foi feito em cada aula
+
 Aula 1: Criei a porta de entrada principal usando API Gateway e iniciei o pipeline com SQS e EventBridge.
 Aula 2: Implementei um fluxo de ingestão de arquivos via S3, integrando-o de forma inteligente ao pipeline principal.
 Aula 3: Desenvolvi o processamento central que consome eventos do EventBridge e persiste os pedidos no DynamoDB.
