@@ -1,4 +1,6 @@
 # README
+# Projeto Pedidos AWS
+<img width="1274" height="698" alt="image" src="https://github.com/user-attachments/assets/e4944247-27c1-4d19-986b-885927286c9b" />
 
 ## Apresentação do Projeto
 
